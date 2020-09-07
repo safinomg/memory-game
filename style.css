@@ -12,6 +12,22 @@ margin-right: auto;
 
 .score {
   font-family: 'Merienda One', cursive;
-  color: purple;
+  color: #ffffff;
   text-align: center;
+}
+
+
+.title2 {
+  color: #ffffff;
+  font-family: 'Merienda One', cursive;
+}
+
+.title {
+  color: #ffffff;
+  font-family: 'Merienda One', cursive;
+}
+
+.title3 {
+  color: #ffffff;
+  font-family: 'Merienda One', cursive;
 }
